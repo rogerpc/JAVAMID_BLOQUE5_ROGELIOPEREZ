@@ -6,3 +6,4 @@ Thor
 Batman
 X Heroe
 Linterna Verde
+Deadpool
