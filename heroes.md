@@ -5,3 +5,4 @@ Capitan Ameria
 Thor
 Batman
 X Heroe
+Linterna Verde
